@@ -9,6 +9,7 @@ public class Managment {
             team[i]=student;
         }
         for (int i = 0; i < team.length; i++) {
+
             System.out.println(team[i].toString());
         }
 
